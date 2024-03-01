@@ -1,0 +1,14 @@
+C:\Users\Aorus\Desktop\HW5\MyNUnit\bin\Debug\net7.0\MyNUnit.exe
+C:\Users\Aorus\Desktop\HW5\MyNUnit\bin\Debug\net7.0\MyNUnit.deps.json
+C:\Users\Aorus\Desktop\HW5\MyNUnit\bin\Debug\net7.0\MyNUnit.runtimeconfig.json
+C:\Users\Aorus\Desktop\HW5\MyNUnit\bin\Debug\net7.0\MyNUnit.dll
+C:\Users\Aorus\Desktop\HW5\MyNUnit\bin\Debug\net7.0\MyNUnit.pdb
+C:\Users\Aorus\Desktop\HW5\MyNUnit\obj\Debug\net7.0\MyNUnit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aorus\Desktop\HW5\MyNUnit\obj\Debug\net7.0\MyNUnit.AssemblyInfoInputs.cache
+C:\Users\Aorus\Desktop\HW5\MyNUnit\obj\Debug\net7.0\MyNUnit.AssemblyInfo.cs
+C:\Users\Aorus\Desktop\HW5\MyNUnit\obj\Debug\net7.0\MyNUnit.csproj.CoreCompileInputs.cache
+C:\Users\Aorus\Desktop\HW5\MyNUnit\obj\Debug\net7.0\MyNUnit.dll
+C:\Users\Aorus\Desktop\HW5\MyNUnit\obj\Debug\net7.0\refint\MyNUnit.dll
+C:\Users\Aorus\Desktop\HW5\MyNUnit\obj\Debug\net7.0\MyNUnit.pdb
+C:\Users\Aorus\Desktop\HW5\MyNUnit\obj\Debug\net7.0\MyNUnit.genruntimeconfig.cache
+C:\Users\Aorus\Desktop\HW5\MyNUnit\obj\Debug\net7.0\ref\MyNUnit.dll
